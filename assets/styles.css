@@ -1,0 +1,22 @@
+#hero {
+  background-image: url(./herobanner.jpg);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.name {
+  text-align: left;
+}
+ul {
+  text-align: right;
+  text-decoration: none;
+  list-style: none;
+}
+li {
+  display: inline;
+  margin: 10px;
+}
+.about-me p {
+  text-align: right;
+}
