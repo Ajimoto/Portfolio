@@ -1,6 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(246, 244, 241);
+}
+.name {
+  background-color: lightcoral;
+  width: 300px;
+  font-size: 50px;
+}
+header {
+  background-color: darkcyan;
+}
+
 #hero {
   background-image: url(./herobanner.jpg);
-  height: 400px;
+  height: 200px;
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -16,7 +34,46 @@ ul {
 li {
   display: inline;
   margin: 10px;
+  font-size: 30px;
 }
-.about-me p {
+article {
+  margin-left: 40em;
+  margin-bottom: 30px;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  height: 30em;
+  justify-content: flex-end;
+  flex: 1 0 0;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-left: 30em;
+}
+
+section {
+  background-image: url(./herobanner.jpg);
+
+  border-style: solid;
+  border-width: 1px;
+  min-height: 200px;
+  min-width: 400px;
+  /* max-width: 400px; */
+  margin: 2px;
+}
+h2 {
+  margin: 0;
+  color: black;
+  background-color: aqua;
+  margin: 0 auto;
+}
+.work-tag {
+  margin-right: 30px;
+}
+section h2 {
+  margin: 0 auto;
+}
+footer {
+  font-size: 30px;
   text-align: right;
 }
