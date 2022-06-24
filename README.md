@@ -13,3 +13,4 @@ Over time as I gain more skills and experience with coding I can display my proj
 each link in the nav-bar will be useable to navigate the page once finished. each project will have an interactive hover and click function that will direct the viewer to the project that was built.
 
 links: https://github.com/Ajimoto/Portfolio.git
+https://ajimoto.github.io/Portfolio/
