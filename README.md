@@ -1,6 +1,7 @@
 # Portfolio
 
 Portfolio project for week 2 challenge
+![Screenshot](<./assets/Screen%20Shot%202022-08-29%20at%201.04.21%20PM%20(2).png>)
 
 # goal
 
